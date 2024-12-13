@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337301178034",
+    "project_id": "proyectofirebasefinals",
+    "storage_bucket": "proyectofirebasefinals.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337301178034:android:fa999b3f60964dce54abab",
+        "android_client_info": {
+          "package_name": "com.stomas.appfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE4K91S_ioYrPQFwBcfBGajZzQyXmGXZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
